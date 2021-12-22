@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 #include<math.h>
 #define pi 3.14
 void main()
